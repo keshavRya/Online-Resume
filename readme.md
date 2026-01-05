@@ -7,7 +7,7 @@
 <ol>
 <li>Create an HTML file named index.html.</li>
 
-<li>Use the <!DOCTYPE html> declaration at the beginning of the file to indicate that it's an HTML document.</li>
+<li>Use the &lt;!DOCTYPE html&gt; declaration at the beginning of the file to indicate that it's an HTML document.</li>
 
 <li>Create a head section that includes a title element with the text "My Resume".</li>
 
