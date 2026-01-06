@@ -1,7 +1,7 @@
 <h1>Online Resume</h1>
 <hr/>
 
-<p>This is the first Capstone Project in the Angela Yu course where we are required to create an online resume for ourselves. The instructions for the same have been listed below:</p>
+<p>This is the first Capstone Project in the Angela Yu course where I am creating an online resume for myself. The instructions for the same have been listed below:</p>
 
 <p>
 <ol>
